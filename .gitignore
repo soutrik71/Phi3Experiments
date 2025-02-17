@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+cpu_and_mobile/
+phi3-vision-128k-instruct/
